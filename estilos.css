@@ -1,0 +1,63 @@
+p.aumento_300{
+    font-size: 300%;
+}
+
+p.aumento_50{
+    font-size: 50%;
+}
+
+hr.mitad{
+    width: 50%;
+}
+
+
+
+div {
+    border: black 2px solid;
+    font-size: 150%;
+}
+
+p.aumento_150{
+    font-size: 150%;
+}
+
+div.aumento_50{
+    width: 50%;
+    border: red 3px solid;
+}
+
+
+/*Tamaños relativos*/
+
+p.borde-em {
+    border: red 1em solid;
+  }
+  
+  p.borde-ex {
+    border: green 1ex solid;
+  }
+  
+  p.borde-ch {
+    border: blue 1ch solid;
+  }
+
+  p.borde-em-serif {
+    border: red 1em solid;
+    font-family: serif;
+  }
+  
+  p.borde-em-sans-serif {
+    border: green 1em solid;
+    font-family: sans-serif;
+  }
+  
+  p.borde-em-monospace {
+    border: blue 1em solid;
+    font-family: monospace;
+  }
+
+  p.mitad_pantalla{
+    background-color: rgb(19, 139, 219);
+    width: 50vw;
+    height: 50vh;
+  }
